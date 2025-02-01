@@ -1,5 +1,3 @@
-import $ from 'jquery';
-
 jQuery(() => {
   let count = 0;
 
